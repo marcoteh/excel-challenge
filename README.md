@@ -1,4 +1,4 @@
-# excel-challenge
+# Challenge 1 - Excel
 
 The Challenge 1 folder contains the Crowd funding book and Crowd funding analyis report for the challenge
 
